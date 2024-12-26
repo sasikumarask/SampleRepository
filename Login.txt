@@ -1,1 +1,1 @@
-Logged into VSC
+Logged into Visual StudioCode
