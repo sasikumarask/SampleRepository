@@ -1,1 +1,1 @@
-added styles into GUI
+added styles into GUI and backend
