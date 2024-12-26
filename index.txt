@@ -1,1 +1,1 @@
-added index into fields
+added index into input fields
